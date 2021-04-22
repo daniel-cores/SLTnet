@@ -1,0 +1,1 @@
+from .st_rcnn import GeneralizedST_RCNN
